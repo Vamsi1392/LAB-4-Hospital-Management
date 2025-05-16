@@ -1,7 +1,7 @@
 # LAB-4-Hospital-Management
-NAME : JAWAHAR RAJ N
+NAME : M.V.Vamsidhar Reddy
 
-REGISTER NUMBER : 212223240057
+REGISTER NUMBER : 212224040205
 
 ### AIM:
 To develop the Hospital management System using Star UML tool.
